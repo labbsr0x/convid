@@ -8,3 +8,11 @@ This is a tool for enabling NAT'd clients to connect to NAT'd servers, initially
 * [Convid Windows Agent](https://github.com/labbsr0x/convid-agent-windows)
 * [Convid SSH Server Bridge](https://github.com/labbsr0x/convid-ssh-server)
 
+## Overall view
+
+![diagram1](diagram1.png "Diagram 1")
+
+## Network communication
+
+![diagram2](diagram2.png "Diagram 2")
+
