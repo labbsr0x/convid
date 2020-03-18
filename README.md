@@ -10,9 +10,9 @@ This is a tool for enabling NAT'd clients to connect to NAT'd servers, initially
 
 ## Overall view
 
-<img src="diagram1.png" width="400">
+<img src="diagram1.png" width="500">
 
 ## Network communication
 
-<img src="diagram2.png" width="400">
+<img src="diagram2.png" width="600">
 
