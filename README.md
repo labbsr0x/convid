@@ -1,5 +1,10 @@
-# convid
-This is a tool for enabling NAT'd clients to connect to NAT'd servers, initially designed for remote work using Remote Desktop.
+
+  <img src="logo.png" width="100">
+
+
+# Convid Remote Desktop Provider
+
+Convid is a tool for enabling NAT'd clients to connect to NAT'd servers, initially designed for remote work using Remote Desktop.
 
 ## Microservices
 
