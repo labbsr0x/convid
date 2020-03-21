@@ -21,3 +21,6 @@ Convid is a tool for enabling NAT'd clients to connect to NAT'd servers, initial
 
 <img src="diagram2.png" width="600">
 
+## Horizontally scalable architecture (ongoing work)
+
+<img src="diagram-scale.png" width="600">
